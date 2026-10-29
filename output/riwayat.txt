@@ -1,0 +1,15 @@
+[29-10-2026 23:41:20]
+Bangun datar: Persegi
+Luas: 4.00
+Keliling: 8.00
+
+[29-10-2026 23:41:22]
+Bangun datar: Persegi Panjang
+Luas: 4.00
+Keliling: 8.00
+
+[29-10-2026 23:42:09]
+Bangun datar: Persegi
+Luas: 4.00
+Keliling: 8.00
+

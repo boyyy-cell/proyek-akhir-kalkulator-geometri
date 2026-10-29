@@ -1,0 +1,18 @@
+
+Contoh Data Pengujian Kalkulator Geometri
+
+1. Persegi
+   Sisi: 5
+   Luas yang diharapkan: 25
+   Keliling yang diharapkan: 20
+
+2. Persegi Panjang
+   Panjang: 8
+   Lebar: 4
+   Luas yang diharapkan: 32
+   Keliling yang diharapkan: 24
+
+3. Lingkaran
+   Jari-jari: 7
+   Luas yang diharapkan: 153.94
+   Keliling yang diharapkan: 43.98
